@@ -1,7 +1,7 @@
 {
-  "total_size": 6,
-  "type_id": 2,
-  "offset": 0,
+  "total_size": { "size": 6 },
+  "type_id": { "type": 2 },
+  "offset": { "offsett": 0 },
   "category": [
     {
       "id": 1,
