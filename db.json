@@ -11,5 +11,45 @@
       "updated_at": "2022-05-16 11:48:53",
       "type_id": 2
     },
+    {
+      "id": 2,
+      "name": "Напитки",
+      "img": "images/27567f904a64ba79ae95672e4ddf10c8.png",
+      "created_at": "2021-11-17 10:10:43",
+      "updated_at": "2022-05-16 11:49:07",
+      "type_id": 2
+    },
+    {
+      "id": 6,
+      "name": "Азиатская кухня",
+      "img": "images/d6648f1f920d6bbc89988d75b3bed5b3.jpg",
+      "created_at": "2021-12-23 15:03:24",
+      "updated_at": "2022-01-21 10:28:04",
+      "type_id": 2
+    },
+    {
+      "id": 7,
+      "name": "Завтраки",
+      "img": "images/f937dbd76381d1c10fdfcfd90688cb96.png",
+      "created_at": "2021-12-23 15:04:49",
+      "updated_at": "2022-01-01 08:56:45",
+      "type_id": 2
+    },
+    {
+      "id": 10,
+      "name": "Японская кухня",
+      "img": "images/9447a79793a4b7f832d981f975c0abc4.jpeg",
+      "created_at": "2021-12-27 06:29:47",
+      "updated_at": "2022-01-01 08:56:33",
+      "type_id": 2
+    },
+    {
+      "id": 11,
+      "name": "Бургеры",
+      "img": "images/1343ce6cf6792383dfc071727afd5c46.jpeg",
+      "created_at": "2021-12-27 06:35:34",
+      "updated_at": "2022-01-01 08:56:22",
+      "type_id": 2
+    }
   ]
 }
